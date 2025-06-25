@@ -13,7 +13,7 @@ We analyze:
 ## 🚀 Run in Google Colab
 
 Click below to open this notebook in Colab ⬇️  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/covid19-global-dashboard/blob/main/COVID_19_Global_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/covid19-global-dashboard/blob/main/country_wise_latest.csv)
 
 ---
 
